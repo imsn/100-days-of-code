@@ -8,3 +8,12 @@
 **Thoughts:** Working on DatePicker and also Validator. Now they are in good shape. Also make form controls easier to handle. 
 
 **Link to work:** [React Kit](https://github.com/imsn/react-kit)
+
+### Day 1: March 4, 2017
+##### (party day)
+
+**Today's Progress**: Don't work and just party :)
+
+**Thoughts:** Hangover... 
+
+**Link to work:** Are you sure?

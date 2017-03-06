@@ -17,3 +17,12 @@
 **Thoughts:** Hangover... 
 
 **Link to work:** Are you sure?
+
+### Day 2: March 5, 2017
+##### Work instead of two days
+
+**Today's Progress**: RadioButtons, list and dropdown
+
+**Thoughts:** Radio buttons and drop down are now in good shape, but List need more work for multiselect
+
+**Link to work:** [React Kit](https://github.com/imsn/react-kit)

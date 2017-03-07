@@ -26,3 +26,13 @@
 **Thoughts:** Radio buttons and drop down are now in good shape, but List need more work for multiselect
 
 **Link to work:** [React Kit](https://github.com/imsn/react-kit)
+
+### Day 3: March 6, 2017
+##### Try to organize, failed
+
+**Today's Progress**: Listbox and drop down finish
+
+**Thoughts:** Now I have dropdown and list box which are just overlay over options component. Also textbox is overlay over
+ FormControl. I try to create emailbox. But it failed in integrating with validator
+
+**Link to work:** [React Kit](https://github.com/imsn/react-kit)

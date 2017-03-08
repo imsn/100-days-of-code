@@ -36,3 +36,12 @@
  FormControl. I try to create emailbox. But it failed in integrating with validator
 
 **Link to work:** [React Kit](https://github.com/imsn/react-kit)
+
+### Day 4: March 7, 2017
+##### Start Flight Booking
+
+**Today's Progress**: Start working on flight route
+
+**Thoughts:** Create new project from my starter kit. start working on ticket and now on flight route
+
+**Link to work:** [Flight Booking](https://github.com/imsn/FlightBooking)
